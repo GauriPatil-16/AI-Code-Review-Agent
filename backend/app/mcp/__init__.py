@@ -1,0 +1,1 @@
+"""FastMCP service interface."""
